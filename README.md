@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharvilLade?tab=repositories](https://github.com/SharvilLade?tab=repositories)
 
