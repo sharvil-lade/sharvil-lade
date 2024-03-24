@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharvil Lade</h1>
-<h3 align="center">Coder, Developer, Blockchain Enthusiast.</h3>
+<h3 align="center">Coder, Developer, Blockchain & AI/ML Enthusiast.</h3>
 
 - 👨‍💻 I’m a B-Tech 2nd year student at IIIT Bhagalpur
 
