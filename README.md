@@ -96,12 +96,12 @@ Intro end-->
 </p>
 
 
-<!--profile visit count-->
+<!-- profile visit count
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=sharvil-lade&icon=3&color=6)](https://visitcount.itsvg.in)
   
-</div>
+</div> -->
 
 
 <!--horizontal divider(gradiant)-->
