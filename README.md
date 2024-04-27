@@ -88,7 +88,7 @@ Intro end-->
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/sharvil-lade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/sharvillade_" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg" alt="twitter" height="50" width="50" /></a> 
+<!-- <a href="https://twitter.com/sharvillade_" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg" alt="twitter" height="50" width="50" /></a>  -->
 <!-- <a href="https://www.instagram.com/sharvil_lade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a> -->
 <a href="mailto:sharvillade9917@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" alt="Gmail" height="50" width="50" /></a>
 <!-- <a href="https://discordapp.com/users/834133261235126353" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="discord" height="50" width="50" /></a> -->
