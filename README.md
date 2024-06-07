@@ -21,21 +21,22 @@
 </table>
 </p>
 
-<!--h1 without bottom border-->
+<!--h1 without bottom border
 <div id="user-content-toc">
     <ul align="center">
         <summary>
             <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
         </summary>
     </ul>
-</div>
-<!--tech stack icons-->
+</div>-->
+
+<!--tech stack icons
 <p align="center">
     <a href="https://skillicons.dev" style="padding: 0 10px;">
         <img
             src="https://skillicons.dev/icons?i=cpp,js,ts,py,solidity,react,nextjs,html,css,nodejs,express,mongodb,prisma,mysql,figma,notion,postman,git,&perline=9" />
     </a>
-</p>
+</p>-->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
